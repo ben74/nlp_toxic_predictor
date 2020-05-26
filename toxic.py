@@ -216,7 +216,7 @@ if 'project specific':
         
     model.load_weights(weights)
     
-    clear()
+    #clear()
     p('_'*180)
     isToxic("I wish you'll be dead you gay motherfucker")
     isToxic('ceci est une phrase comportant des fleurs et des abeilles :)')
