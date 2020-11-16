@@ -6,3 +6,5 @@
 - Used in this competition https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification with roc_auc scoring of : 0.9163
 - Using Xlm Roberta on Multiple TPU
 - Trained on 3.100.000 records with some of them translated by google API
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gh:ben74:nlpToxicPredictor)
